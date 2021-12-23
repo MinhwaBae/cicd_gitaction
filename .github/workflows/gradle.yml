@@ -15,6 +15,7 @@ on:
   
 env:
   S3_BUCKET_NAME: mhjenkinstest
+  PROJECT_NAME: codedeploy-logging
 
 jobs:
   build:
